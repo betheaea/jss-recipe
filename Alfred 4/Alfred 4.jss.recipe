@@ -28,7 +28,7 @@
 		<string>Alfred 4.png</string>
 	</dict>
 	<key>MinimumVersion</key>
-	<string>2.0.4</string>
+	<string>2.3.1</string>
 	<key>ParentRecipe</key>
 	<string>io.github.hjuutilainen.pkg.Alfred4</string>
 	<key>Process</key>
