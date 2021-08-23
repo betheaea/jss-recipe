@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>2.3.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.andrewvalentine-recipes.KnockKnock/KnockKnock.pkg.recipe</string>
+	<string>com.github.andrewvalentine.pkg.KnockKnock</string>
 	<key>Process</key>
 	<array>
 		<dict>
