@@ -28,7 +28,7 @@
 		<string>KnockKnock.png</string>
 	</dict>
 	<key>MinimumVersion</key>
-	<string>0.2.0</string>
+	<string>2.3.0</string>
 	<key>ParentRecipe</key>
 	<string>com.github.andrewvalentine-recipes.KnockKnock/KnockKnock.pkg.recipe</string>
 	<key>Process</key>
